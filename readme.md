@@ -1,9 +1,8 @@
 /* ------------------------------------------------------
-Template Name: Alime - Photography HTML Template
-Template Author: Colorlib
-Template Author URI: https://colorlib.com
+Template Name: Madison
+Template Author: Edwin Ngoche
 Version: 1.0.0
-Last Update: Feb 22, 2019
+Last Update: 17th July 2020
 ----------------------------------------------------- */
 
 /* --------------------------------
